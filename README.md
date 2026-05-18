@@ -10,7 +10,8 @@ Most career advice is vague. LinkedIn followers don't prove competence. Certific
 This app removes the guessing.
 ## Try It Now
 
-Click here to use the app: [Open Retail Analytics Job Readiness Tracker]([https://partyrock.aws/u/xolaniv/_RbXCy201/Retail-Analytics-Hiring-Readiness-Tracker])
+Click here to use the app:
+https://partyrock.aws/u/xolaniv/_RbXCy201/Retail-Analytics-Hiring-Readiness-Tracker
 
 No login required. Takes 2 minutes to get your readiness score.
 
