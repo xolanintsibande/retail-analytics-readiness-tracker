@@ -1,8 +1,5 @@
 # retail-analytics-readiness-tracker
 PartyRock AI app that measures job readiness for retail analytics roles in Gauteng. Compares your portfolio and skills against actual job postings. Built for AWS AI &amp; ML Scholars Program with Accenture &amp; Udacity.
-# Retail Analytics Job Readiness Tracker
-
-A PartyRock AI app that measures your actual hiring readiness for retail analytics roles by comparing your portfolio and skills against real job market requirements in Gauteng, South Africa.
 
 ## The Problem
 
@@ -45,7 +42,7 @@ You enter your actual data. The app tells you your readiness score and exactly w
 
 ## Why This Matters
 
-In my experience, the difference between hired analysts and rejected ones isn't credentials. It's this: Can they understand a business problem and use data to solve it?
+In my experience, the difference between hired analysts and rejected ones isn't credentials. It's this: <b>Can they understand a business problem and use data to solve it?</b>
 
 Retailers lose millions to size-chart returns. A mediocre analyst just knows SQL. A good analyst understands that body type variation doesn't fit standard S-M-L sizing, spots the three customer clusters, and quantifies the opportunity.
 
@@ -67,15 +64,11 @@ This app measures whether you can do that work.
 
 ## My Context
 
-I'm transitioning from 4+ years in retail operations into data analytics in Gauteng. This app tracks my readiness. My goal: Junior Data Analyst or Retail Analytics role.
+I'm transitioning from 4+ years in retail operations into data analytics in Gauteng. This app tracks my readiness. My goal: <b>Junior Data Analyst or Retail Analytics role.</b>
 
-**Current Status:** [Insert your current score]
+**Current Status:** <b>60.75 / 100</b> 
 
-## Connect With Me
-
-- LinkedIn: linkedin.com/in/xolani-ntsibande
-- GitHub: github.com/xolanintsibande
-- Email: xolanintsibande08@gmail.com
+"A technically active candidate with strong development habits but a portfolio that does not yet demonstrate retail or commercial analytics competency."
 
 ---
 
