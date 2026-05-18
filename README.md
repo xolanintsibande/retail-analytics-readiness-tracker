@@ -8,6 +8,11 @@ You're transitioning into data analytics. You've taken courses. Built projects. 
 Most career advice is vague. LinkedIn followers don't prove competence. Certificates don't guarantee interviews. What matters is this: Can you solve a real retail business problem?
 
 This app removes the guessing.
+## Try It Now
+
+Click here to use the app: [Open Retail Analytics Job Readiness Tracker]([https://partyrock.aws/u/xolaniv/_RbXCy201/Retail-Analytics-Hiring-Readiness-Tracker])
+
+No login required. Takes 2 minutes to get your readiness score.
 
 ## What It Does
 
