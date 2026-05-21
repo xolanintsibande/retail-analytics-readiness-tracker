@@ -1,81 +1,211 @@
 # retail-analytics-readiness-tracker
-PartyRock AI app that measures job readiness for retail analytics roles in Gauteng. Compares your portfolio and skills against actual job postings. Built for AWS AI &amp; ML Scholars Program with Accenture &amp; Udacity.
 
-## The Problem
+AWS PartyRock application that evaluates readiness for Junior Data Analyst and Retail Analytics roles in Gauteng.
 
-You're transitioning into data analytics. You've taken courses. Built projects. But you don't know if you're actually ready to apply for jobs.
+Built as part of the AWS AI & ML Scholars Program with Accenture and Udacity.
 
-Most career advice is vague. LinkedIn followers don't prove competence. Certificates don't guarantee interviews. What matters is this: Can you solve a real retail business problem?
+The project was designed around a simple problem:
 
-This app removes the guessing.
-## Try It Now
+You can complete courses, build dashboards, and learn SQL, but still struggle to answer one question:
 
-Click here to use the app:
-https://partyrock.aws/u/xolaniv/_RbXCy201/Retail-Analytics-Hiring-Readiness-Tracker
+"Am I genuinely ready to apply for data analyst roles?"
 
-No login required. Takes 2 minutes to get your readiness score.
-
-## What It Does
-
-You enter your actual data. The app tells you your readiness score and exactly what you need to do next.
-
-**Input 1: Your Portfolio**
-- Number of completed projects (SQL analysis, Power BI dashboards, statistical models)
-- Total code written
-- Datasets you've analyzed (size, complexity, business focus)
-- GitHub activity (commits in last 90 days)
-
-**Input 2: Your Skills**
-- SQL proficiency (basic, intermediate with CTEs, optimization for large datasets)
-- Visualization ability (static charts, interactive dashboards, predictive overlays)
-- Statistical knowledge (descriptive stats, hypothesis testing, forecasting)
-- Business context (can you explain inventory impact, margin strategy, customer segmentation)
-
-## What You Get
-
-**Output 1: Your Readiness Score (0-100)**
-- Compared against hire-ready candidates for Junior Data Analyst and Retail Analytics roles in Gauteng
-- Shows: Current score vs. interview threshold (typically 68+)
-
-**Output 2: Skill Gap Analysis**
-- Table showing your level vs. what job postings require
-- Calculates weeks until job-ready at your current pace
-- Flags highest-impact skills to develop first
-
-**Output 3: Your Competitive Position**
-- Percentile ranking against typical Gauteng candidates
-- Concrete feedback: "You need 3 more projects" or "You're 6 weeks ahead"
-
-## Why This Matters
-
-In my experience, the difference between hired analysts and rejected ones isn't credentials. It's this: <b>Can they understand a business problem and use data to solve it?</b>
-
-Retailers lose millions to size-chart returns. A mediocre analyst just knows SQL. A good analyst understands that body type variation doesn't fit standard S-M-L sizing, spots the three customer clusters, and quantifies the opportunity.
-
-This app measures whether you can do that work.
-
-## How to Use It
-
-1. Count your completed projects (be honest about scope and complexity)
-2. Rate your skill levels in the five core areas
-3. Enter your GitHub activity
-4. Get your score
-5. Update monthly and track your progress
-
-## Built With
-
-- PartyRock (AWS AI & ML Scholars Program)
-- Accenture and Udacity partnership
-- Real Gauteng job posting data
-
-## My Context
-
-I'm transitioning from 4+ years in retail operations into data analytics in Gauteng. This app tracks my readiness. My goal: <b>Junior Data Analyst or Retail Analytics role.</b>
-
-**Current Status:** <b>60.75 / 100</b> 
-
-"A technically active candidate with strong development habits but a portfolio that does not yet demonstrate retail or commercial analytics competency."
+This app was built to reduce that uncertainty by benchmarking portfolio strength, technical skills, and business analytics exposure against common requirements found across Junior Data Analyst and Retail Analytics job postings in Gauteng.
 
 ---
 
-*Built as part of the AWS AI & ML Scholars Program with Accenture and Udacity*
+The Problem
+
+Many aspiring analysts focus heavily on:
+
+- Certificates
+- Tool familiarity
+- Course completion
+
+But hiring decisions usually depend on something deeper:
+
+Can you use data to solve business problems?
+
+In retail analytics, this includes questions like:
+
+- Why are return rates increasing?
+- Which products underperform by region or customer segment?
+- What inventory trends impact margin and operations?
+- Which customer behaviors influence revenue performance?
+
+This project focuses on measuring readiness for those types of analytical problems.
+
+---
+
+Project Goal
+
+The goal of this application is to:
+
+- Measure practical analytical readiness
+- Identify skill gaps
+- Encourage commercially focused project work
+- Help aspiring analysts benchmark their progress realistically
+
+---
+
+What the App Evaluates
+
+1. Portfolio Strength
+
+The app evaluates:
+
+- Number of completed projects
+- Project complexity
+- Business relevance of projects
+- Dataset exposure
+- GitHub activity and consistency
+
+Examples:
+
+- SQL analysis projects
+- Power BI dashboards
+- Trend analysis projects
+- Forecasting work
+- Retail-focused analytics case studies
+
+---
+
+2. Technical Skills
+
+The application evaluates readiness across:
+
+- SQL proficiency
+- Dashboard and visualization skills
+- KPI interpretation
+- Trend analysis
+- Statistical understanding
+- Retail analytics exposure
+
+---
+
+3. Business Problem-Solving Ability
+
+The app emphasizes commercial thinking, including:
+
+- Customer behavior analysis
+- Product return analysis
+- Revenue and margin interpretation
+- Operational performance analysis
+- Inventory and sales trend analysis
+
+---
+
+Outputs
+
+Readiness Score
+
+The app generates a readiness score from 0–100 based on:
+
+- Technical skills
+- Portfolio quality
+- Business analytics exposure
+- Development consistency
+
+---
+
+Skill Gap Analysis
+
+The application identifies:
+
+- Areas needing improvement
+- Skills commonly expected in junior analyst roles
+- High-impact learning priorities
+
+---
+
+Competitive Positioning
+
+The app provides guidance such as:
+
+- Portfolio readiness indicators
+- Suggested improvement focus areas
+- Estimated development gaps
+
+---
+
+Why I Built This
+
+I’m transitioning from 4+ years in retail operations into data analytics.
+
+Working in retail exposed me to operational and commercial challenges tied to:
+
+- Sales performance
+- Customer behavior
+- Inventory movement
+- Revenue targets
+- Store operations
+
+This project helped me connect those business problems to analytical thinking and data-driven decision-making.
+
+It also helped me better understand:
+
+- Hiring expectations
+- Portfolio quality
+- Commercial analytics
+- Practical analyst readiness
+
+---
+
+Current Focus Areas
+
+Current improvement priorities:
+
+- Stronger retail analytics case studies
+- Forecasting and operational analytics
+- Commercial KPI analysis
+- More business-focused SQL projects
+
+---
+
+Tech Stack
+
+- AWS PartyRock
+- GitHub
+- SQL concepts
+- Power BI concepts
+- Retail analytics frameworks
+
+---
+
+Try the App
+
+AWS PartyRock App:
+https://partyrock.aws/u/xolaniv/_RbXCy201/Retail-Analytics-Hiring-Readiness-Tracker 
+
+---
+
+Career Objective
+
+Currently pursuing opportunities in:
+
+- Junior Data Analyst
+- Retail Analytics
+- Business Analytics
+
+Location:
+Gauteng, South Africa
+
+---
+
+Feedback
+
+I’d value feedback from:
+
+- Data analysts
+- Retail analytics professionals
+- Recruiters
+- Hiring managers
+- Business intelligence professionals
+
+Areas I’m particularly interested in improving:
+
+- Portfolio weighting logic
+- Retail analytics skill prioritization
+- Forecasting expectations for junior roles
+- SQL proficiency benchmarks
+- Commercial analytics readiness
